@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15302" started-at="2021-01-13T00:34:27 CET" finished-at="2021-01-13T00:34:43 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15302" started-at="2021-01-13T00:34:27 CET" finished-at="2021-01-13T00:34:43 CET">
+      <class name="com.demotours.tests.SignInTestPF">
+        <test-method status="PASS" signature="launchchrome()[pri:0, instance:com.demotours.tests.SignInTestPF@887af79]" name="launchchrome" is-config="true" duration-ms="3553" started-at="2021-01-13T00:34:31 CET" finished-at="2021-01-13T00:34:35 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchchrome -->
+        <test-method status="PASS" signature="clickonSignIn()[pri:0, instance:com.demotours.tests.SignInTestPF@887af79]" name="clickonSignIn" duration-ms="916" started-at="2021-01-13T00:34:35 CET" finished-at="2021-01-13T00:34:36 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonSignIn -->
+        <test-method status="PASS" signature="enterCredentialsandsubmit()[pri:1, instance:com.demotours.tests.SignInTestPF@887af79]" name="enterCredentialsandsubmit" duration-ms="1419" started-at="2021-01-13T00:34:36 CET" finished-at="2021-01-13T00:34:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterCredentialsandsubmit -->
+        <test-method status="PASS" signature="signoff()[pri:2, instance:com.demotours.tests.SignInTestPF@887af79]" name="signoff" duration-ms="267" started-at="2021-01-13T00:34:37 CET" finished-at="2021-01-13T00:34:37 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoff -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.demotours.tests.SignInTestPF@887af79]" name="closeBrowser" is-config="true" duration-ms="259" started-at="2021-01-13T00:34:42 CET" finished-at="2021-01-13T00:34:43 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.demotours.tests.SignInTestPF -->
+      <class name="com.demotours.tests.RegisterTestPF">
+        <test-method status="PASS" signature="launchchrome()[pri:0, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="launchchrome" is-config="true" duration-ms="4031" started-at="2021-01-13T00:34:27 CET" finished-at="2021-01-13T00:34:31 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchchrome -->
+        <test-method status="PASS" signature="clickregister0()[pri:0, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="clickregister0" duration-ms="725" started-at="2021-01-13T00:34:37 CET" finished-at="2021-01-13T00:34:38 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickregister0 -->
+        <test-method status="PASS" signature="verifytitle()[pri:1, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="verifytitle" duration-ms="102" started-at="2021-01-13T00:34:38 CET" finished-at="2021-01-13T00:34:38 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifytitle -->
+        <test-method status="PASS" signature="enterform()[pri:2, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="enterform" duration-ms="3481" started-at="2021-01-13T00:34:38 CET" finished-at="2021-01-13T00:34:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterform -->
+        <test-method status="PASS" signature="verifyusername()[pri:3, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="verifyusername" duration-ms="376" started-at="2021-01-13T00:34:42 CET" finished-at="2021-01-13T00:34:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyusername -->
+        <test-method status="PASS" signature="closebrowser()[pri:0, instance:com.demotours.tests.RegisterTestPF@7fac631b]" name="closebrowser" is-config="true" duration-ms="114" started-at="2021-01-13T00:34:42 CET" finished-at="2021-01-13T00:34:42 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.demotours.tests.RegisterTestPF -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
